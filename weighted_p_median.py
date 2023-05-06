@@ -55,7 +55,7 @@ def main():
 
     cost = OD_distance_matrix
 
-    p = 6 # Only need to open one facility
+    p = 5 # Only need to open one facility
 
     print("Starting FLP initialization and solution ..")
 

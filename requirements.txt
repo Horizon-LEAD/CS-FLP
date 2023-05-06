@@ -1,0 +1,9 @@
+absl-py==1.4.0
+certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+et-xmlfile==1.1.0
+numpy==1.21.6
+openpyxl==3.1.2
+ortools==9.5.2237
+pickle5==0.0.12
+protobuf==4.22.4
+wincertstore==0.2
