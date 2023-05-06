@@ -73,7 +73,9 @@ def main():
     for i in range(num_facilities):
         y[i] = solver.BoolVar('y[%d]' % i)
 
-    # Define objective
+    # Define objective function
+    # Switching in-between the two objective functions for the problem,
+    # can take place by remove "*demand_weight_factors[i]" from line 82.
     objective = solver.Objective()
     for i in range(num_facilities):
         for j in range(num_facilities):
