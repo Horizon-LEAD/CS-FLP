@@ -22,5 +22,9 @@ To run the model you need to setup two environments:
 1) Python 3.7 environment (e.g. based on Anaconda) and Python packages based on requirements.txt file,
 2) Java 8 Runtime Environment in order to run OpenTripPlanner routing engine through the .bat file located in root_folder/opentripplanner.
 
+### Development
+
+Developed by the Inlecom LEAD team
+
 ### Support
 Dimitris Rizopoulos, dimitris.rizopoulos@inlecomsystems.com
