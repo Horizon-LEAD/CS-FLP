@@ -175,4 +175,5 @@ cython_debug/
 *.obj
 
 # ignore input files folder
-/input
+input/
+input/**
