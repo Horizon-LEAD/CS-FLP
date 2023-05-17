@@ -178,4 +178,4 @@ cython_debug/
 *.pickle
 
 # ignore input files folder
-# input/*
+/input
