@@ -27,4 +27,4 @@ To run the model you need to setup two environments:
 Developed by the Inlecom LEAD team
 
 ### Support
-Dimitris Rizopoulos, dimitris.rizopoulos@inlecomsystems.com
+Dimitris Rizopoulos, dimrizopoulos@gmail.com
